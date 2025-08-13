@@ -20,7 +20,7 @@ c.height = window.innerHeight;
 c.width = window.innerWidth;
 
 // the characters
-var konkani  = "゠NETFLIX - PRIME - CRUNCHYROLL - MÉTODOS - AUTOPAY - DOMINIO - XOLDYX・ーヽヿ0123456789"
+var konkani  = "゠NETFLIX - PRIME - CRUNCHYROLL - MÉTODOS - AUTOPAY - DOMINIO - XOLDYX・ーヽAAAAAAAAAAAAAAAAAAAAAAAA BBBBBBBBBBBBBBBBBBBBBBB CCCCCCCCCCCCCCCC"
 // converting the string into an array of single characters
 var characters = konkani.split("");
 var font_size = 14;
